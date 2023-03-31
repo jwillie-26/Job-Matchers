@@ -4,15 +4,18 @@
 
 Site members will have to login to access the site. 
 
-<img src="./src/job-login.png">
+![job-login](https://user-images.githubusercontent.com/105637783/229126705-6cfa4d8c-1354-4cbd-8fc2-6a586be22a25.png)
+
 
 The home page displays the Job listings
 
-<img src="./src/job-page.png">
+![job-post-job](https://user-images.githubusercontent.com/105637783/229126764-fb069402-cbfb-4968-8cf2-09e9428d8ab8.png)
+
 
 Registered users can add job listings
 
-<img src="./src/job-post-job.png">
+![job-page](https://user-images.githubusercontent.com/105637783/229126863-e0b9dab5-3d52-4c67-948e-298c902be96e.png)
+
 
 ## Getting Started
 
