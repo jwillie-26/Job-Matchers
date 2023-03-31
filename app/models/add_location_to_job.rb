@@ -1,0 +1,2 @@
+class AddLocationToJob < ApplicationRecord
+end

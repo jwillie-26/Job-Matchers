@@ -1,0 +1,2 @@
+class RenameTypeInJobWebsite < ApplicationRecord
+end
